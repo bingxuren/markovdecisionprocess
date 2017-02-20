@@ -1,1 +1,1 @@
-# markovdecisionprocess
+markov decision process implemented using both policy and value iteration
